@@ -1,6 +1,6 @@
 # Home4Paws: Pet Adoption System Front End
 
-Welcome to the PawFinds Pet Adoption System front-end repository! This project is developed using React.js and aims to provide a user-friendly interface for users to discover and adopt pets.
+Welcome to the Home4Paws Pet Adoption System front-end repository! This project is developed using React.js and aims to provide a user-friendly interface for users to discover and adopt pets.
 
 
 
@@ -15,8 +15,7 @@ Home4Paws is a web application that connects pet lovers with pets in need of a h
 
 
 
-## Demo Video
-Watch a quick demo of the PawFinds front end in action:
+
 
 ## **Please Note: This Project Is Designed for Laptop Screens**
 Kindly be aware that this project is optimized for laptop screens and is not responsive for mobile or tablet devices. The development of this project was carried out during an internship, and as the internship period has come to an end, further enhancements may not be applied.
